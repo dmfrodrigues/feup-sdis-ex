@@ -12,7 +12,7 @@ jobs:
 
     - name: Install latex
       run: sudo apt install -y latexmk texlive-latex-extra texlive-science
-;;
+
     - name: Checkout submodules
       shell: bash
       run: |
