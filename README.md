@@ -4,11 +4,10 @@
 
 - **Institution:** [FEUP](https://sigarra.up.pt/feup/en/web_page.Inicial)
 - **Course:** [SDIS](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=459489) (Distributed Systems)
-<!-- - **Course grade:** ?/20 -->
+- **Course grade:** 18/20
 
 ## Contents
 
-- [Exam form](form)
 - [Solved exam exercises](exams)
     - [2015](exams/2015)
         - [2015 normal](exams/2015/2015N.md)
