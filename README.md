@@ -4,6 +4,8 @@
 
 - **Institution:** [FEUP](https://sigarra.up.pt/feup/en/web_page.Inicial)
 - **Course:** [SDIS](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=459489) (Distributed Systems)
+- **Subjects:** messages, remote procedure calls, addressing, security/encryption, synchronization, replication, consistency, fault-tolerance
+- **Tools:** Java, RMI, sockets, UDP/TCP, encryption
 - **Course grade:** 18/20
 
 ## Contents
